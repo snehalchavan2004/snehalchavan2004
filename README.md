@@ -1,18 +1,3 @@
-<h1 align="center">Hi 👋, I'm snehal chavan</h1>
-<h3 align="center">A passionate software developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=snehalchavan2004&label=Profile%20views&color=0e75b6&style=flat" alt="snehalchavan2004" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snehalchavan2004" alt="snehalchavan2004" /></a> </p>
-
-- 🔭 I’m currently working on **android development,c++,java**
-
-- 🌱 I’m currently learning **computer science and engineering**
-
-- 👯 I’m currently pursuing B.tech degree **@adcet ashta**
-
-- 💬 Ask me about **c,c++,android**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/snehalc92051813" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="snehalc92051813" height="30" width="40" /></a>
