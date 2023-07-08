@@ -2,9 +2,7 @@
 <h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehalchavan2004&label=Profile%20views&color=0e75b6&style=flat" alt="snehalchavan2004" /> </p>
-<img align="right" alt="coding " width="200" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=snehalchavan2004&label=Profile%20views&color=0e75b6&style=flat" alt="snehalchavan2004" /> </p>
-
+<img align="right" alt="coding " width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 - 🔭 I’m currently working on **Android development,C++,Java,MySQL,HTML,CSS**
 
