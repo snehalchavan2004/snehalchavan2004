@@ -3,15 +3,14 @@
 <img align="right" alt="coding " width="200" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehalchavan2004&label=Profile%20views&color=0e75b6&style=flat" alt="snehalchavan2004" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snehalchavan2004" alt="snehalchavan2004" /></a> </p>
 
-- 🔭 I’m currently working on **android development,c++,java**
+- 🔭 I’m currently working on **android development,c++,java,mySQL,HTML,CSS**
 
 - 🌱 I’m currently learning **computer science and engineering**
 
 - 👯 I’m currently pursuing B.tech degree **@adcet ashta**
 
-- 💬 Ask me about **c,c++,android**
+- 💬 Ask me about **c,c++,android,MySQL,Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
