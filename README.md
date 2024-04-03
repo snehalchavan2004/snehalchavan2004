@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehalchavan2004&label=Profile%20views&color=0e75b6&style=flat" alt="snehalchavan2004" /> </p>
 <img align="right" alt="coding " width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
-- 🔭 I’m currently working on **Android development,C++,Java,MySQL,HTML,CSS**
+- 🔭 I’m currently working on **Android development,Frontend Web Developement,Machine Learning**
 
 - 🌱 I’m currently learning **Computer science and engineering**
 
 - 👯 I’m currently pursuing B.tech degree **@Adcet ashta**
 
-- 💬 Ask me about **C,C++,Android,MySQL,Java**
+- 💬 Ask me about **C,C++,Android,MySQL,Java,Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
